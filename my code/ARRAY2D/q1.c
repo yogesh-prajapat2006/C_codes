@@ -16,7 +16,6 @@ int main(){
     int maxc=n-1;
     int count=0;
     int tne=n*n;
-    
     printf("\n");
     while(count<tne){
         for(int j=minc;j<=maxc;j++){
